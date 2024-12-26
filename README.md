@@ -40,7 +40,7 @@ Run the App:
 Execute the script, and the app will start on http://0.0.0.0:8080.
 Endpoints:
 
-/: Dashboard with WAN IPs, latency, total clients, and system uptime.
+Dashboard with WAN IPs, latency, total clients, and system uptime.
 /leases: Displays all clients grouped by subnets.
 /speedtest: Runs a speed test and returns the results as JSON.
 /traffic: Shows total inbound and outbound traffic across all routers.
