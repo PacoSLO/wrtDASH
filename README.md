@@ -2,9 +2,9 @@
 Openwrt Dashboard - wrtDASH
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-The project is still work in progress.
+## The project is still work in progress.
 
-Key Features:
+### Key Features:
 Router Management and Monitoring:
 
 The app connects to multiple routers via SSH to retrieve data such as DHCP lease information and network traffic stats.
@@ -51,7 +51,7 @@ Templates:
 
 Ensure that corresponding HTML templates (index.html, leases.html) are present in a templates directory.
 
-Images of the wrtDASH
+### Images of the wrtDASH
 
 <img
   src="https://github.com/PacoSLO/wrtDASH/blob/main/index.PNG"
