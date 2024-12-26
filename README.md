@@ -2,6 +2,8 @@
 Openwrt Dashboard - wrtDASH
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+The project is still work in progress.
+
 Key Features:
 Router Management and Monitoring:
 
@@ -48,3 +50,23 @@ Dashboard with WAN IPs, latency, total clients, and system uptime.
 Templates:
 
 Ensure that corresponding HTML templates (index.html, leases.html) are present in a templates directory.
+
+Images of the wrtDASH
+
+<img
+  src="https://github.com/PacoSLO/wrtDASH/blob/main/index.PNG"
+  alt="Alt text"
+  title="Index Home"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
+  <img
+  src="https://github.com/PacoSLO/wrtDASH/blob/main/leases.jpg"
+  alt="Alt text"
+  title="Index Home"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
+   <img
+  src="https://github.com/PacoSLO/wrtDASH/blob/main/leases2.jpg"
+  alt="Alt text"
+  title="Index Home"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
