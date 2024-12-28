@@ -2,9 +2,9 @@
 Openwrt Dashboard - wrtDASH
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## The project is still work in progress.
+## The project is still work in progress...
 
-###Instalation:
+### Instalation:
 Project runs on Flask inv. And it's running with a Gunicorn via a script on a Ubuntu LXC Container 2C/1GB Ram 30GB Disk space. 
 If you have any suggetions what more to add join my discord.
 I will upload the code soon. When everything is double checked.
