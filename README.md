@@ -5,7 +5,7 @@ Openwrt Dashboard - wrtDASH
 ## The project is still work in progress...
 
 ### Instalation:
-Project runs on Flask inv. And it's running with a Gunicorn via a script on a Ubuntu LXC Container 2C/1GB Ram 30GB Disk space. 
+Project runs on Flask inv. And it's running with a Gunicorn via a script on a Ubuntu LXC Container 2C/1GB Ram 30GB Disk space. So you need some server or try host it on a openwrt router if you have a beast one :)
 If you have any suggetions what more to add join my discord.
 I will upload the code soon. When everything is double checked.
 
