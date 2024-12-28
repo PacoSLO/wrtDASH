@@ -54,19 +54,13 @@ Ensure that corresponding HTML templates (index.html, leases.html) are present i
 ### Images of the wrtDASH
 
 <img
-  src="https://github.com/PacoSLO/wrtDASH/blob/main/index.PNG"
-  alt="Alt text"
-  title="Index Home"
-  style="display: inline-block; margin: 0 auto; max-width: 500px">
-
-  <img
-  src="https://github.com/PacoSLO/wrtDASH/blob/main/leases.jpg"
+  src="https://github.com/PacoSLO/wrtDASH/blob/main/dash.png"
   alt="Alt text"
   title="Index Home"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
    <img
-  src="https://github.com/PacoSLO/wrtDASH/blob/main/leases2.jpg"
+  src="https://github.com/PacoSLO/wrtDASH/blob/main/leases.png"
   alt="Alt text"
   title="Index Home"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
