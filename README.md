@@ -4,6 +4,11 @@ Openwrt Dashboard - wrtDASH
 
 ## The project is still work in progress.
 
+###Instalation:
+Project runs on Flask inv. And it's running with a Gunicorn via a script on a Ubuntu LXC Container 2C/1GB Ram 30GB Disk space. 
+If you have any suggetions what more to add join my discord.
+I will upload the code soon. When everything is double checked.
+
 ### Key Features:
 Router Management and Monitoring:
 
@@ -34,21 +39,20 @@ Traffic statistics
 Leased clients grouped by subnet
 Most recent client details
 CORS Support:
-
 Flask-CORS is used to enable Cross-Origin Resource Sharing.
 Usage:
+
 Run the App:
-
 Execute the script, and the app will start on http://0.0.0.0:8080.
-Endpoints:
 
+Endpoints:
 Dashboard with WAN IPs, latency, total clients, and system uptime.
 /leases: Displays all clients grouped by subnets.
 /speedtest: Runs a speed test and returns the results as JSON.
 /traffic: Shows total inbound and outbound traffic across all routers.
 /last-client: Displays the most recently connected client.
-Templates:
 
+Templates:
 Ensure that corresponding HTML templates (index.html, leases.html) are present in a templates directory.
 
 ### Images of the wrtDASH
