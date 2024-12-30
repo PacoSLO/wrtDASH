@@ -4,7 +4,7 @@ Openwrt Dashboard - wrtDASH
 
 ## The project is still work in progress...
 
-## What is new:
+### What is new:
 Added leases from all ruters from the network.
 Added a restart option to one click restart entire network.
 
