@@ -73,7 +73,7 @@ Ensure that corresponding HTML templates (index.html, leases.html) are present i
   title="Index Home"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
 
-     <img
+   <img
   src="https://github.com/PacoSLO/wrtDASH/blob/main/restart.png"
   alt="Alt text"
   title="Index Home"
