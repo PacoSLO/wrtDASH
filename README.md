@@ -23,8 +23,7 @@ Latency Measurement \
 Speed Test \
 Public IP Detection \
 Traffic Monitoring \
-Most Recent Client Detection \
-Last Connected Client Detection 
+Most Recent Client Detection 
 
 ### Images
 <img
