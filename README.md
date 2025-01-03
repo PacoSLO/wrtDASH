@@ -5,8 +5,8 @@ Openwrt Dashboard - wrtDASH
 ## The project is still work in progress...
 
 ### Change Log:
-Added leases from all ruters from the network
-Added a restart option to one click restart entire network
+Added leases from all ruters from the network \
+Added a restart option to one click restart entire network \
 Added Speedtest history
 Added Ruter health monitoring
 Some code improvment to load faster
@@ -47,9 +47,6 @@ Leased clients grouped by subnet
 Most recent client details
 CORS Support:
 Flask-CORS is used to enable Cross-Origin Resource Sharing.
-
-Run the App:
-Execute the script, and the app will start on http://0.0.0.0:8080.
 
 ### Images of the wrtDASH
 
