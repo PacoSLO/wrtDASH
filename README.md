@@ -7,12 +7,12 @@ Openwrt Dashboard - wrtDASH
 ### Change Log:
 Added leases from all ruters from the network \
 Added a restart option to one click restart entire network \
-Added Speedtest history
-Added Ruter health monitoring
-Some code improvment to load faster
+Added Speedtest history \
+Added Ruter health monitoring \
+Some code improvment to load faster \
 
 ### Instalation:
-Project runs on Flask inv. And it's running with a Gunicorn via a script on a Ubuntu LXC Container 2C/1GB Ram 30GB Disk space. So you need some server or try host it on a openwrt router if you have a beast one :)
+Project runs on Flask inv. And it's running with a Gunicorn via a script on a Ubuntu LXC Container 2C/1GB Ram 30GB Disk space. So you need some server or try host it on a openwrt router if you have a beast one :) \
 If you have any suggetions what more to add join my discord.
 I will upload the code soon, when everything is double checked.
 
