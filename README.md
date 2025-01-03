@@ -24,10 +24,9 @@ Speed Test \
 Public IP Detection \
 Traffic Monitoring \
 Most Recent Client Detection \
-Last Connected Client Detection \
+Last Connected Client Detection 
 
-### Images of the wrtDASH
-
+### Images
 <img
   src="https://github.com/PacoSLO/wrtDASH/blob/main/dash.png"
   alt="Alt text"
