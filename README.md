@@ -81,3 +81,16 @@ Ensure that corresponding HTML templates (index.html, leases.html) are present i
   alt="Alt text"
   title="Index Home"
   style="display: inline-block; margin: 0 auto; max-width: 500px">
+
+   <img
+  src="https://github.com/PacoSLO/wrtDASH/blob/main/rutermonitoring.PNG"
+  alt="Alt text"
+  title="Index Home"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
+   <img
+  src="https://github.com/PacoSLO/wrtDASH/blob/main/speedtesthistory.jpg"
+  alt="Alt text"
+  title="Index Home"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
+
